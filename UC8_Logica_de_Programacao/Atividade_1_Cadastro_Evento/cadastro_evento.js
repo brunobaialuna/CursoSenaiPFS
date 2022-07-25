@@ -10,7 +10,7 @@ var continuar = 'S';
 while (continuar == "S" || continuar == "s") {
     let dataEvento = prompt("Digite a data do evento: (dd/mm/aaaa)");
     if (dataEvento > dataAtual) {
-        while (listaDeParticipantes.length < 3) {
+        while (listaDeParticipantes.length < 100) {
             var continuar = "N"
             let idade = prompt("Digite a idade do participante/palestrante: ");
             if (idade >= 18) {
@@ -65,7 +65,7 @@ while (continuar == "S" || continuar == "s") {
 }
 
 
-if (listaDeParticipantes.length == 3) {
+if (listaDeParticipantes.length == 100) {
     alert("O evento atingiu o número máximo de participantes!")
 }
 
