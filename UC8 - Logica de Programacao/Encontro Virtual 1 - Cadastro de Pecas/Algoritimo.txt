@@ -1,0 +1,12 @@
+Sistema de Cadastro de Peças.
+
+1 - Inicio
+2 - Enquanto o tamanho da lista for menor que 10, o sistema continua rodando.
+3 - Sistema pergunta o peso da peça
+4 - Se o peso for igual ou inferior a 100 gramas, o sistema retorna umma mensagem dizendo que o peso é inválido.
+5 - É perguntado ao usuário se ele quer cadastrar outra peça, caso sim o sistema retorna no paço 3, caso não, FIM.
+6 - Se o peso da peça for superior a 100 gramas o sistema o sistema continua.
+7 - O sistema pergunta o nome da peça.
+8 - Se o nome tiver 3 caracteres ou mais, o sistema vai adicionar esse nome na lista e mostrar a lista na tela.
+9 - Se o nome tiver menos que 3 caracteres, o sistema vai dizer que o nome é inválido e perguntar se ele deseja cadastrar outra peça, caso sim o sistema retorna no passo 3, caso não, FIM.
+10 - Ao cadastrar 10 peças, o sistema retorna uma mensagem dizendo que a caixa atingiu o número máximo de peças.
