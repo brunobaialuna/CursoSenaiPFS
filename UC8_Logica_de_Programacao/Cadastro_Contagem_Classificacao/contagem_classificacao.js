@@ -9,16 +9,17 @@
 // SE O NÚMERO FOR "ZERO", ESCREVA ZERO E O NÚMERO CORRESPONDENTE.
 
 var qtdAlunos = prompt("Informe a quantidade de alunos: ");
-qtdAlunos = parseInt(qtdAlunos);
+qtdAlunos = parseInt(qtdAlunos); // Transforma a string em inteiro.
 
-if (qtdAlunos == 0) {
-    console.log(`Zero, ${qtdAlunos}`);
+for (var alunos = 0; alunos <= qtdAlunos; alunos++) {
 
-} else if ((qtdAlunos % 2) != 0) {
-    console.log(`Impar, ${qtdAlunos}`);
+    if (alunos == 0) {
+        console.log(`${alunos} - Zero.`);
 
-} else {
-    console.log(`Par, ${qtdAlunos}`);
+    } else if ((alunos % 2) != 0) {
+        console.log(`${alunos} - Ímpar.`);
+
+    } else {
+        console.log(`${alunos} - Par.`);
+    }
 }
-
-
