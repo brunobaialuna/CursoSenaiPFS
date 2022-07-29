@@ -1,14 +1,14 @@
 let listaDeParticipantes = [];
 let listaDePalestrantes = [];
 const data = new Date();
-const diaAtual = data.getDate();
-const mesAtual = data.getMonth() + 1;
-const anoAtual = data.getFullYear();
-const dataAtual = data.toLocaleDateString();
 var continuar = 'S';
 
 while (continuar == "S" || continuar == "s") {
-    let dataEvento = prompt("Digite a data do evento: (dd/mm/aaaa)");
+    let diaEvento = prompt("Digite o dia do evento: "); 
+    let mesEvento = prompt("Digite o mês do evento: "); 
+    let anoEvento = prompt("Digite o ano do evento: ");
+    let dtEvento = anoEvento + "-" + mesEvento + "-" + diaEvento;
+    var dataEvento = new Date(dtEvento); // Como a função date só reconhece data no formato americano, utilzei a entrada separada do dia, mês e ano para poder concatenar as informações no padrão aceito e transformar a string em um objeto para fazer a comparação de data.
     if (dataEvento > dataAtual) {
         while (listaDeParticipantes.length < 100) {
             var continuar = "N"
