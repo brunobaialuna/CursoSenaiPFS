@@ -10,7 +10,6 @@
 
 var qtdAlunos = prompt("Informe a quantidade de alunos: ");
 qtdAlunos = parseInt(qtdAlunos);
-console.log(qtdAlunos);
 
 if (qtdAlunos == 0) {
     console.log(`Zero, ${qtdAlunos}`);
