@@ -1,0 +1,25 @@
+Desenvolvimento de Rafe
+ 
+No material digital, você viu que o primeiro passo para implementar um projeto de um site, é realizar uma investigação cuidadosa para desenvolver a melhor solução que atenda aos requisitos do problema ou necessidade apresentado pelo cliente e traga uma experiência positiva ao público-alvo.
+ 
+E, para testar a solução, o próximo passo é a prototipagem, que mesmo de forma simplificada, proporciona testes e validações.
+ 
+Então, mãos à obra!
+ 
+Consulte o arquivo Briefing_Cliente.pdf e crie o rafe (rascunho ou protótipo de baixa complexidade) do layout do site de e-commerce voltado ao universo gamer para desktop, mobile e tablet que atenda às necessidades especificadas pela cliente.
+ 
+Para criar o seu rafe, você pode usar as ferramentas  word, ppt, paint brush,  e até papel e caneta (nesse caso, digitalizar ou fotografar a página) ou outra ferramenta de sua preferência para criar o rafe coma página inicial, menu, imagem, textos, cabeçalho, rodapé, botões etc.
+ 
+Lembre-se de que, nesse primeiro protótipo, apesar de ser mais simplificando, você já deve aplicar os princípios de UX, UI e Design  Interativo, como:
+ 
+·         Usabilidade
+·         Funcionalidade
+·         Legibilidade
+·         Intuitividade
+·         Minimalismo
+·         Cores
+·         Friendly
+·         Componentes de layout e informações organizadas
+·         Técnicas de leitura
+ 
+Compartilhe o resultado do seu trabalho, publicando aqui seu arquivo.

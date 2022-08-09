@@ -1,0 +1,15 @@
+DESCRIÇÃO
+Implementação de funcionalidades na página de Login do site, para layout de desktop, aplicando a linguagem de programação JavaScript. 
+ 
+Você desenvolveu funcionalidades na página index do site para layout de desktop. Nesta etapa, você deverá desenvolver aplicações e funcionalidades na página de Login do site, implementando no mínimo a funcionalidade do formulário, podendo implementar botões, carousel entre outros, utilizando a linguagem JavaScript, para deixar o site ainda mais dinâmica, a fim de mostrar mensagens e informações que permitam uma melhor interação com os usuários.
+
+
+Após concluir o seu trabalho, salve o arquivo na plataforma github e publique o link do site, na galeria.
+
+ 
+
+Abuse da criatividade e não se esqueça de acessar o fórum de dúvidas, sempre que tiver algum questionamento.
+
+ 
+
+Após concluir o seu trabalho, salve o arquivo na plataforma github e publique aqui o link.

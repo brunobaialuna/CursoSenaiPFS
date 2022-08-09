@@ -1,0 +1,8 @@
+DESCRIÇÃO
+Desenvolvimento do protótipo (alta fidelidade) da interface gráfica do site para tablet.
+ 
+Você já desenvolveu o protótipo do layout do site de e-commerce para desktop. Agora, você deverá adaptá-lo para resolução de tablets.
+
+Para isso, acompanhe a webinar e siga as dicas e orientações para essa adaptação na ferramenta para criação de layouts Figm
+
+ Compartilhe o resultado do seu trabalho, publicando aqui o link da atividade.

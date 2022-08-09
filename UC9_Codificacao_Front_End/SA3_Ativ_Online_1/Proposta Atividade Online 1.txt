@@ -1,0 +1,36 @@
+DESCRIÇÃO
+
+Na situação de aprendizagem anterior, você criou uma primeira versão de um site de uma loja de eletrônicos, utilizando a forma tradicional de desenvolvimento, ou seja, com a estrutura de HTML, Bootstrap, CSS e JavaScript. No entanto, essa estrutura apresenta algumas desvantagens, como a repetição de códigos e a falta de compatibilidade com outras tecnologias.
+
+ 
+
+
+Agora, estude o material digital e desenvolva uma nova versão desse mesmo site, aplicando o framework Angular e sua biblioteca Material, a fim de otimizar o desenvolvimento da codificação, evitar repetições e melhorar a integração com o Back-End.
+
+ 
+
+Sua página deverá ter, necessariamente:
+
+ 
+
+•        Página index (home), contendo os elementos menu, banner, destaque, novidades, galeria, formulário e rodapé, utilizando o framework angular (biblioteca materialize).
+
+ 
+
+
+ 
+
+
+Não se esqueça de implementar o ambiente de desenvolvimento integrado, com o NodeJS, o Visual Studio Code, configurar o Angular CLI no prompt de comando e adicionar o pacote do Angular Material para utilizar os seus recursos.
+
+ 
+
+Lembre-se também de respeitar a organização das pastas do Angular, separar o <header> e o <footer> e realizar a depuração para corrigir possíveis erros do código, que podem ser sintáticos ou semânticos.
+
+ 
+
+Acesse o fórum de dúvidas, sempre que tiver algum questionamento.
+
+ 
+
+Após concluir o seu trabalho, salve o arquivo na plataforma github e publique aqui o link.

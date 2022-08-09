@@ -1,0 +1,71 @@
+DESCRIÇÃO
+ Desenvolver a documentação do sistema.
+
+ 
+
+
+Após codificar a interface gráfica (Front-End) e concluir o projeto de seu site, crie a documentação, para explicar o funcionamento do sistema,  a fim de auxiliar usuários e programadores sobre as rotinas do sistema, facilitando seu uso e o desenvolvimento de futuras evoluções de código.
+
+ 
+
+Para isso, consulte o material digital e crie os seguintes documentos:
+
+ 
+
+1. Modelagem caso de uso - diagrama visual do projeto, para apresentar as funcionalidades e navegabilidade do sistema. Sugerimos o a ferramenta gratuita https://creately.com/ , mas você pode utilizar outra de sua preferência.
+
+ 
+
+Não se esqueça de que a modelagem caso de uso é composta dos seguintes itens:
+
+ 
+
+- Cenário: os eventos do sistema que ocorrem por meio da interação com o usuário.
+
+- Ator: o tipo de usuário do sistema.
+
+- Use case: a funcionalidade realizada pelo ator.
+
+- Comunicação: a ligação do ator (usuário) com o caso de uso.
+
+ 
+
+Após concluir o seu trabalho, exporte seu trabalho em PDF.
+
+ 
+
+2. Documento de visão do negócio – define o objetivo de um programa ou sistema. Utilize a ferramenta de edição de textos Word para estruturá-lo ou qualquer outra de sua preferência.
+
+ 
+
+Lembre-se de que esse documento dever conter os seguintes tópicos:
+
+ 
+
+-Finalidade
+
+-Escopo
+
+-Visão geral
+
+-Visão geral do produto
+
+-Posicionamento no mercado
+
+-Descrição da equipe desenvolvedora e dos clientes
+
+-Alternativas e concorrências
+
+- Restrições
+
+-Requisitos do produto
+
+-Definição, acrônimos e abreviações
+
+-Referências
+
+ 
+
+ 
+
+Após conclusão das atividades, publique aqui os arquivos.

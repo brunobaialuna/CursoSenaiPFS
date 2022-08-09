@@ -1,0 +1,53 @@
+DESCRIÇÃO
+
+Você está iniciando a Situação-Problema 1 - Planejamento de Interface.
+ 
+No decorrer de seus estudos, esperamos que você desenvolva as seguintes capacidades:
+ 
+- Reconhecer as técnicas de levantamento de requisitos.
+- Correlacionar o levantamento de requisitos com a arquitetura da informação.
+- Reconhecer os padrões atuais para a implementação da interface.
+- Reconhecer os princípios de usabilidade para a produção de interfaces.
+- Reconhecer os princípios de design de interação e experiência do usuário (UI e UX) na produção de interfaces.
+
+ 
+
+Você foi contratado como Programador Front-End em uma agência de publicidade que faz sites para e-commerce, a fim de aplicar as melhores técnicas para compreensão das necessidades do cliente, garantindo a qualidade e a usabilidade do produto.
+
+ 
+
+Recentemente, a agência foi contratada para desenvolver um site de um e-commerce que irá vender aparelhos tecnológicos para uma loja localizada no centro de São Paulo. A loja se chama Game Mania e é voltada especialmente para o público gamer. O seu cliente quer aproveitar a oportunidade e expandir as vendas para o Brasil todo por meio do e-commerce. Você foi designado para assumir essa demanda. Seu principal objetivo é proporcionar a melhor experiência ao usuário final do site.
+
+ 
+
+Para tanto, você deverá realizar os seguintes desafios:
+
+ 
+
+•    Realizar o briefing com o cliente, aplicando técnicas de levantamento de requisitos.
+
+•    Desenvolver o rafe (rascunho) do layout, utilizando as informações adquiridas no briefing e aplicando os princípios de UX e UI.
+
+•    Construir o protótipo de interface gráfica para o projeto, para desktop, tablet e smartphone.
+
+ 
+
+ 
+
+A conclusão de todas as atividades da SA1 representa 25% do total de pontos, ou seja, 25 pontos.
+ 
+Para saber mais sobre as atividades e a forma de avaliação, consulte o plano de estudos.
+
+ 
+
+ 
+
+Para resolver esses desafios, estude o material digital, participe do fórum de discussão, da webinar, dos encontros remotos e realize as atividades propostas.
+
+ 
+
+Sempre que que você tiver alguma dúvida, acesse o fórum de dúvidas.
+
+ 
+
+Bons estudos!

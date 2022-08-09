@@ -1,0 +1,10 @@
+Desenvolvimento do protótipo (alta complexidade) da interface gráfica do site para desktop.
+ 
+ 
+Após criar o rafe (rascunho ou protótipo de baixa fidelidade) do layout do site de e-commerce para desktop, está na hora de tornar o protótipo para desktop mais detalhado e fiel ao que será disponibilizado aos usuários (layout de alta fidelidade). 
+ 
+Para isso, consulte o material digital e siga o passo a passo para utilizar a ferramenta para criação de layouts de alta complexidade Figma.
+ 
+Lembre-se de utilizar imagens e vídeos de bancos free.
+ 
+Compartilhe o resultado do seu trabalho, publicando aqui o link da atividade.

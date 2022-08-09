@@ -1,0 +1,50 @@
+DESCRIÇÃO
+Você está iniciando a Situação-Problema 3 - Aplicação de Frameworks.
+ 
+No decorrer de seus estudos, esperamos que você desenvolva as seguintes capacidades:
+ 
+-Correlacionar framework com as linguagens de programação.
+-Reconhecer boas práticas de programação para a melhoria do código.
+-Reconhecer boas práticas para a criação de documentação de software.
+
+ 
+
+Você assumiu uma demanda como programador para o desenvolvimento de um site de uma loja que venderá jogos eletrônicos e já criou uma primeira versão do projeto utilizando a forma tradicional de desenvolvimento, ou seja, com a estrutura de HTML, Bootstrap, CSS e JavaScript. No entanto, essa estrutura apresenta algumas desvantagens, como a repetição de códigos e a falta de compatibilidade com outras tecnologias.
+
+ 
+
+Tendo isso em vista, agora, você desenvolverá uma nova versão do mesmo projeto, mas aplicando um framework que otimizará o desenvolvimento de códigos, evitando repetições e melhorando a integração com o Back-End. Além disso, você deverá criar a documentação do sistema, que explica como utilizá-lo.
+
+ 
+
+Desse modo, seus principais objetivos serão:
+
+ 
+
+ 
+
+·      Desenvolver o Front-End do site utilizando o framework do JavaScript Angular, com sua biblioteca de estilização material.
+
+ 
+
+·      Criar a documentação do site, finalizando o projeto.
+
+ 
+
+
+A conclusão de todas as atividades da SA3 representa 25% do total de pontos, ou seja, 25 pontos.
+ 
+Para saber mais sobre as atividades e a forma de avaliação, consulte o plano de estudos.
+
+ 
+
+
+Para resolver esses desafios, estude o material digital, participe do fórum de discussão, da webinar, dos encontros remotos e realize as atividades propostas.
+
+ 
+
+Sempre que que você tiver alguma dúvida, acesse o fórum de dúvidas.
+
+ 
+
+Bons estudos!

@@ -1,0 +1,9 @@
+DESCRIÇÃO
+Aprimoramento do design da página de Login do site, aplicando a linguagem de folha de estilos do CSS3.  
+
+Você criou a estrutura e já estilizou a página index (home) do site de e-commerce, para layout de desktop.
+Agora, continue aplicando a linguagem de folha de estilos do CSS3 para aprimorar o design da página de Login do seu site, aplicando formatação de fontes, cores, background, colunas, bordas, entre outros; 
+
+Abuse da criatividade e não se esqueça de acessar o fórum de dúvidas, sempre que tiver algum questionamento.
+
+ Após concluir o seu trabalho, salve o arquivo na plataforma github e publique aqui o link.

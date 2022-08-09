@@ -1,0 +1,50 @@
+DESCRIÇÃO
+Você está iniciando a Situação-Problema 2 - Implementação de Interface.
+ 
+No decorrer de seus estudos, esperamos que você desenvolva as seguintes capacidades:
+ 
+- Utilizar técnicas de interação e codificação, considerando particularidades e funcionalidades da linguagem.
+- Utilizar linguagem para manipulação e validação de dados na interface.
+- Aplicar linguagens de programação no desenvolvimento de interface, seguindo os requisitos do projeto.
+
+ 
+
+Você assumiu uma demanda como programador para o desenvolvimento do site de uma loja de eletrônicos que irá vender jogos e já realizou as seguintes ações:
+
+ 
+
+• levantou os requisitos do projeto, analisando as necessidades do cliente a partir de um questionário específico;
+
+• relacionou esses requisitos com os princípios de User Experience (UX) e User Interface (UI);
+
+• implementou e apresentou ao cliente o protótipo da interface gráfica.
+
+ 
+
+Agora, está na hora de partir para a parte prática e iniciar o desenvolvimento da codificação. Para atender as expectativas do cliente, você deverá publicar os conteúdos no site (texto, imagens, vídeos etc), definir a aparência das páginas e criar aplicações e funcionalidades, para deixar o site mais dinâmico, a fim de mostrar mensagens e informações que permitam uma melhor interação com os usuários.
+
+ 
+
+Portanto, você deverá realizar os seguintes desafios:
+
+ 
+
+• Desenvolver o Front-End do site utilizando a linguagem de marcação HTML5.
+
+• Desenvolver o Front-End responsivo do site utilizando o framework do CSS3 - Bootstrap;
+
+• Aplicar a linguagem de programação JavaScript para implementar eventos no código em HTML que constituirão o site.
+
+ 
+
+A conclusão de todas as atividades da SA2 representa 50% do total de pontos, ou seja, 50 pontos.
+ 
+Para saber mais sobre as atividades e a forma de avaliação, consulte o plano de estudos.
+
+ 
+
+Para resolver esses desafios, estude o material digital, participe do fórum de discussão, das webinars, dos encontros remotos e realize as atividades propostas.
+
+ 
+
+Sempre que que você tiver alguma dúvida, acesse o fórum de dúvidas.
